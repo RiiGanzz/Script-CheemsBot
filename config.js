@@ -9,7 +9,7 @@ const chalk = require("chalk")
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
@@ -24,23 +24,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.owner = ['6281247822525'] //ur owner number
+global.ownername = "𝓡𝓲𝓲"
+global.ytname = "YT: 𝓡𝓲𝓲" //ur yt chanel name
+global.socialm = "GitHub: https://github.com/RiiOFC" //ur github or insta name
+global.location = "Indonesia, Palembang, MM" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "BotRii" //ur bot name
+global.websitex = "https://youtube.com/channel/UCb-kNkFwGk99qVe4NhfSFNA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.packname = "Sticker By Rii"
+global.author = "BotRii"
 global.themeemoji = "📀"
-global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
+global.reactmoji = "🔥"
+global.ownertag = ['𝓡𝓲𝓲'] //ur owner tag
+global.ownernummenu = ['6281247822525'] //ur owner number in menu and all
+global.watermark = "BotRii" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
