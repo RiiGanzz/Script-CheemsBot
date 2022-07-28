@@ -34,22 +34,22 @@ global.location = "Indonesia, Palembang, MM" //ur location
 global.botname = "BotRii" //ur bot name
 global.websitex = "https://youtube.com/channel/UCb-kNkFwGk99qVe4NhfSFNA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By Rii"
-global.author = "BotRii"
+global.packname = "Sticker By Maha kuasa"
+global.author = "@BotRii"
 global.themeemoji = "📀"
 global.reactmoji = "🔥"
 global.ownertag = ['𝓡𝓲𝓲'] //ur owner tag
 global.ownernummenu = ['6281247822525'] //ur owner number in menu and all
-global.watermark = "BotRii" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
+global.watermark = "@BotRii" //ur watermark
+global.botscript = "https://youtube.com/channel/UCb-kNkFwGk99qVe4NhfSFNA"
+global.linkz1 = "https://youtube.com/channel/UCb-kNkFwGk99qVe4NhfSFNA"
+global.linkz2 = "https://chat.whatsapp.com/CKF1y1F0M2J1hRJBSsv8bC"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
