@@ -46,10 +46,10 @@ global.linkz1 = "https://youtube.com/channel/UCb-kNkFwGk99qVe4NhfSFNA"
 global.linkz2 = "https://chat.whatsapp.com/CKF1y1F0M2J1hRJBSsv8bC"
 
 //Bot theme media
-global.thum = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur logo pic
+global.thum = fs.readFileSync("https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/c612a9bc0d80fd1c91fac.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
